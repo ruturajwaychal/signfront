@@ -1,0 +1,12 @@
+POST http://localhost:4000/app/signup
+# GET http://localhost:4000/app/signup
+Content-Type: application/json
+
+{
+    "name": "rutaurasdajjaaa",
+    "email": "ruturdasssjasdw@gmail.com",
+    "phone": "99089076474",
+    "address": "kolhapur"
+}
+
+
